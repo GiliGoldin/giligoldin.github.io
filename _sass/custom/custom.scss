@@ -1,40 +1,47 @@
-/* --- Gili's custom overrides --- */
+/* --- Gili's custom sidebar overrides --- */
 
-/* Darker blue sidebar with readable text */
+/* Full-height dark blue sidebar */
 .sidebar,
 .page__sidebar {
-  background-color: #1e3a8a !important; /* dark blue */
-  color: #ffffff !important;            /* make text white for contrast */
+  background-color: #111827 !important; /* same dark navy as before */
+  color: #f9fafb !important;
+  box-sizing: border-box;
 }
 
-/* Padding inside sidebar + space between sidebar and main content */
-.page__sidebar {
-  padding: 1.5rem 1.75rem;  /* inner space from the edges */
-  margin-right: 2rem;       /* gap between sidebar and main text */
+/* Space between sidebar and main text */
+.page__inner {
+  column-gap: 2.5rem;
 }
 
-/* Sidebar links */
+/* Inner padding so text isn't glued to the edge */
+.sidebar {
+  padding: 1.5rem 1.4rem !important;
+}
+
+/* Links in sidebar */
+.sidebar a,
 .page__sidebar a {
-  color: #e0ecff !important;            /* light bluish text links */
+  color: #93c5fd !important;
 }
 
-.page__sidebar a:hover,
-.sidebar a:hover {
-  background-color: #2c4da7 !important; /* slightly lighter blue on hover */
+.sidebar a:hover,
+.page__sidebar a:hover {
+  text-decoration: underline;
 }
 
-/* Sidebar section titles */
-.page__sidebar .nav__title {
-  color: #ffffff !important;
-}
-
-/* Center the avatar inside the sidebar */
-.author__avatar {
+/* Center the avatar + make it like your old profile-photo */
+.sidebar .author__avatar {
   text-align: center;
   margin-bottom: 1rem;
 }
 
-.author__avatar img {
+.sidebar .author__avatar img,
+.sidebar .author__avatar a img {
+  width: 190px;
+  height: 190px;
+  border-radius: 20px;      /* rounded rectangle like before */
+  object-fit: cover;
   display: block;
-  margin: 0 auto;  /* center horizontally */
+  margin: 0 auto 1rem;      /* center it */
+  box-shadow: 0 8px 20px rgba(255, 255, 255, 0.15);
 }
