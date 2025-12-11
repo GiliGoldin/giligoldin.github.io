@@ -1,1 +1,18 @@
+/* --- Gili's custom styles --- */
+
+/* Soft blue sidebar background */
+.sidebar,
+.page__sidebar {
+  background-color: #e5f0ff !important;
+}
+
+/* Sidebar links hover effect */
+.page__sidebar a:hover {
+  background-color: #d2e4ff !important;
+}
+
+/* Optional: make sidebar title text darker */
+.page__sidebar .nav__title {
+  color: #1b2f70 !important;
+}
 
