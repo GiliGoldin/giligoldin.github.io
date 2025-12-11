@@ -32,7 +32,8 @@
 /* Center the avatar + make it like your old profile-photo */
 .sidebar .author__avatar {
   text-align: center;
-  margin-bottom: 1rem;
+  margin-top: 2rem !important;   /* move image downward */
+  margin-bottom: 1.5rem !important;
 }
 
 .sidebar .author__avatar img,
