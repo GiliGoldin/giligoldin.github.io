@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a final-year PhD candidate in Computer Science at the University of Haifa, currently in the final stages of my doctoral studies. My research is in natural language processing (NLP), computational linguistics, and artificial intelligence, with a particular focus on multilingual and morphologically rich languages, and on data-driven, linguistically informed approaches.
+I am a PhD candidate in Computer Science at the University of Haifa, currently in the final stages of my doctoral studies. My research is in natural language processing (NLP), computational linguistics, and artificial intelligence, with a particular focus on multilingual and morphologically rich languages, and on data-driven, linguistically informed approaches.
 
 My PhD research has focused on the computational analysis of political discourse in Hebrew. I develop NLP models and annotated datasets to study polarization, stylistic variation, gender differences, and the truthfulness and reliability of parliamentary speech. This work examines how linguistic choices encode social meaning in real-world political discourse, bridging computational modeling with insights from linguistics and social science.
 
