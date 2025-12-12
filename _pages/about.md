@@ -13,26 +13,30 @@ My PhD research has focused on the computational analysis of political discourse
 Building on this foundation, my current research interests focus on fairness, bias, and morality in large language models and AI systems. I am particularly interested in how linguistic structure interacts with model behavior, and how social and ethical biases emerge in model-generated language across languages.
 
 
-## Publicationss
+## Publications
 
 ### Unveiling Affective Polarization Trends in Parliamentary Proceedings  
 **G. Goldin**, E. Rabinovich, S. Wintner  
 *Computational Linguistics*, accepted 2025.
+
 ---
 ### An Annotation Scheme for Factuality and Its Application to Parliamentary Proceedings  
 **G. Goldin**, S. Wigderson, E. Rabinovich, S. Wintner  
 *RANLP 2025*, pp. 403–412  
 [ACL Anthology](https://aclanthology.org/2025.ranlp-1.49)
+
 ---
 ### The Knesset Corpus: An Annotated Corpus of Hebrew Parliamentary Proceedings  
 **G. Goldin**, N. Howell, N. Ordan, E. Rabinovich, S. Wintner  
 *Language Resources and Evaluation* (2025)  
 [DOI](https://doi.org/10.1007/s10579-025-09833-4)
+
 ---
 ### Native Language Identification with User-Generated Content  
 **G. Goldin**, E. Rabinovich, S. Wintner  
 *EMNLP 2018*, pp. 3591–3601  
 [ACL Anthology](https://aclanthology.org/D18-1395)
+
 ---
 
 For a full list of publications, see my  
