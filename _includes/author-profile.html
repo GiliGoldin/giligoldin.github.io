@@ -172,7 +172,11 @@
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
       {% endif %}    
       {% if author.huggingface %}
-  <li><a href="{{ author.huggingface }}">🥰</a></li>
+  <li>
+    <a href="{{ author.huggingface }}" style="color: white;">
+      🤗 HuggingFace
+    </a>
+  </li>
 {% endif %}
 
 
