@@ -21,6 +21,7 @@ Building on this foundation, my current research interests focus on fairness, bi
 G. Goldin, E. Rabinovich, S. Wintner  
 *Computational Linguistics*, accepted 2025.
 [arXiv:2512.05231](https://arxiv.org/abs/2512.05231)
+
 ---
 
 ### An Annotation Scheme for Factuality and Its Application to Parliamentary Proceedings  
