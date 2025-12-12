@@ -13,7 +13,7 @@ My PhD research has focused on the computational analysis of political discourse
 Building on this foundation, my current research interests focus on fairness, bias, and morality in large language models and AI systems. I am particularly interested in how linguistic structure interacts with model behavior, and how social and ethical biases emerge in model-generated language across languages.
 
 
-## Publications
+## Publicationss
 
 ### Unveiling Affective Polarization Trends in Parliamentary Proceedings  
 **G. Goldin**, E. Rabinovich, S. Wintner  
@@ -33,7 +33,6 @@ Building on this foundation, my current research interests focus on fairness, bi
 **G. Goldin**, E. Rabinovich, S. Wintner  
 *EMNLP 2018*, pp. 3591–3601  
 [ACL Anthology](https://aclanthology.org/D18-1395)
-
 ---
 
 For a full list of publications, see my  
