@@ -16,27 +16,29 @@ Building on this foundation, my current research interests focus on fairness, bi
 ## Publications
 
 ### Unveiling Affective Polarization Trends in Parliamentary Proceedings  
-**G. Goldin**, E. Rabinovich, S. Wintner  
+G. Goldin, E. Rabinovich, S. Wintner  
 *Computational Linguistics*, accepted 2025.
 ---
+
 ### An Annotation Scheme for Factuality and Its Application to Parliamentary Proceedings  
-**G. Goldin**, S. Wigderson, E. Rabinovich, S. Wintner  
+G. Goldin, S. Wigderson, E. Rabinovich, S. Wintner  
 *RANLP 2025*, pp. 403–412  
 [ACL Anthology](https://aclanthology.org/2025.ranlp-1.49)
-
 ---
+
 ### The Knesset Corpus: An Annotated Corpus of Hebrew Parliamentary Proceedings  
-**G. Goldin**, N. Howell, N. Ordan, E. Rabinovich, S. Wintner  
+G. Goldin, N. Howell, N. Ordan, E. Rabinovich, S. Wintner  
 *Language Resources and Evaluation* (2025)  
 [DOI](https://doi.org/10.1007/s10579-025-09833-4)
-
 ---
+
 ### Native Language Identification with User-Generated Content  
-**G. Goldin**, E. Rabinovich, S. Wintner  
+G. Goldin, E. Rabinovich, S. Wintner  
 *EMNLP 2018*, pp. 3591–3601  
 [ACL Anthology](https://aclanthology.org/D18-1395)
-
 ---
 
-For a full list of publications, see my  
-[Google Scholar profile →](https://scholar.google.com/citations?user=CqZsFjMAAAAJ&hl=en&oi=ao)
+For a full list of publications, see  
+[Google Scholar →](https://scholar.google.com/citations?user=CqZsFjMAAAAJ&hl=en&oi=ao)
+
+
