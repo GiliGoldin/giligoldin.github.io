@@ -23,7 +23,9 @@ Below, I list selected publications from my PhD, together with brief abstracts a
 **Abstract.**  
 Recent years have seen an increase in polarized discourse worldwide, on various platforms. We propose a novel method for quantifying polarization, based on the emotional style of the discourse rather than on differences in ideological stands. Using measures of Valence, Arousal and Dominance, we detect signals of emotional discourse and use them to operationalize the concept of affective polarization. Applying this method to a recently released corpus of proceedings of the Knesset, the Israeli parliament (in Hebrew), we find that the emotional style of members of government differs from that of opposition members; and that the level of affective polarization, as reflected by this style, is significantly increasing with time.
 
-![VAD prediction combined model flow]({{ "images/papers/polarizaion/flow-color-3-encoder.png" | relative_url }})
+<img src="{{ '/images/papers/polarizaion/flow-color-3-encoder.png' | relative_url }}"
+     alt="VAD prediction combined model flow"
+     style="width: 60%; display: block; margin: 0 auto;">
 
 *Figure 1: The Encoder LLM receives a sentence as input and
 generates its sentence embedding. This embedding is then used as input for the regression
@@ -32,7 +34,9 @@ models, which predict the Valence (V), Arousal (A) and Dominance (D) scores for 
 
 
 
-![VAD prediction combined model flow]({{ "images/papers/polarizaion/model-diagram_color-3.png" | relative_url }})
+<img src="{{ '/images/papers/polarizaion/model-diagram_color-3.png' | relative_url }}"
+     alt="Knesset-multi-e5-large model diagram"
+     style="width: 60%; display: block; margin: 0 auto;">
 
 *Figure 2:The Knesset-multi-e5-large model, the chosen LLM for extracting sentence embeddings
 (see Figure 1). It was created by fine-tuning the encoder part of the multilingual-e5-large
