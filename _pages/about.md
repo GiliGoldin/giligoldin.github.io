@@ -27,21 +27,21 @@ G. Goldin, E. Rabinovich, S. Wintner
 
 ### An Annotation Scheme for Factuality and Its Application to Parliamentary Proceedings  
 G. Goldin, S. Wigderson, E. Rabinovich, S. Wintner  
-*RANLP 2025*, pp. 403–412  
+*RANLP 2025*, pages: 403–412  
 [ACL Anthology](https://aclanthology.org/2025.ranlp-1.49)
 
 ---
 
 ### The Knesset Corpus: An Annotated Corpus of Hebrew Parliamentary Proceedings  
 G. Goldin, N. Howell, N. Ordan, E. Rabinovich, S. Wintner  
-*Language Resources and Evaluation* (2025)  
+*Language Resources and Evaluation*, Volume 59, pages 2973–3004, (2025)
 [DOI](https://doi.org/10.1007/s10579-025-09833-4)
 
 ---
 
 ### Native Language Identification with User-Generated Content  
 G. Goldin, E. Rabinovich, S. Wintner  
-*EMNLP 2018*, pp. 3591–3601  
+*EMNLP 2018*, pages: 3591–3601  
 [ACL Anthology](https://aclanthology.org/D18-1395)
 
 ---
