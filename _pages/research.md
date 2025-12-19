@@ -60,13 +60,49 @@ represent the automatically computed trend lines.</em>
 
 ---
 
-## 📄 Another Paper Title (Year)
+## 📄 An Annotation Scheme for Factuality and its Application to Parliamentary Proceedings (2025)
 
-**Authors:** …  
-**Venue:** …
+**Authors:** Gili Goldin, Shira Wigderson, Ella Rabinovich, Shuly Wintner
+
+**Venue:** Proceedings of the 15th International Conference on Recent Advances in Natural Language Processing - Natural Language Processing in the Generative AI Era
+
+**Links:** [PDF](https://acl-bg.org/proceedings/2025/RANLP%202025/pdf/2025.ranlp-1.49.pdf) • [Code](https://github.com/HaifaCLG/Factuality) • [Dataset](https://huggingface.co/datasets/GiliGold/Knesset_check_worthiness)  • 
 
 **Abstract.**  
-…
+Factuality assesses the extent to which a language utterance relates to real-world information; it determines whether utterances correspond to facts, possibilities, or imaginary situations, and as such, it is instrumental for fact checking. Factuality is a complex notion that relies on multiple linguistic signals, and has been studied in various disciplines. We present a complex, multi-faceted annotation scheme of factuality that combines concepts from a variety of previous works. We developed the scheme for Hebrew, but we trust that it can be adapted to other languages. We also present a set of almost 5,000 sentences in the domain of parliamentary discourse that we manually annotated according to this scheme. We report on inter-annotator agreement, and experiment with various approaches to automatically predict (some features of) the scheme, in order to extend the annotation to a large corpus.
 
-![Another figure](/images/papers/paper2_plot.png)
+
+---
+
+## 📄 The Knesset corpus: an annotated corpus of Hebrew parliamentary proceedings (2025)
+
+**Authors:** Gili Goldin, Nick Howell, Noam Ordan, Ella Rabinovich, Shuly Wintner
+
+**Venue:** Language Resources and Evaluation
+
+**Links:** [PDF](https://link.springer.com/article/10.1007/s10579-025-09833-4) • [Code](https://github.com/HaifaCLG/KnessetCorpus) • [Dataset](https://huggingface.co/datasets/HaifaCLGroup/KnessetCorpus)  • 
+
+**Abstract.**  
+We present the Knesset Corpus, a corpus of Hebrew parliamentary proceedings containing over 30 million sentences (over 384 million tokens) from all the (plenary and committee) protocols held in the Israeli parliament in the last three decades. Sentences are annotated with morpho-syntactic information and named entities, and are associated with detailed meta-information reflecting demographic and political properties of the speakers, based on a large database of parliament members and factions that we compiled. We discuss the structure and composition of the corpus and the various processing steps we applied to it. To demonstrate the utility of this novel dataset we present two use cases. We show that the corpus can be used to examine historical developments in the style of political discussions by showing a reduction in lexical richness in the proceedings over time. We also investigate some differences between the styles of male and female speakers. These use cases exemplify the potential of the corpus to shed light on important trends in the Israeli society, supporting research in linguistics, political science, communication, law, etc.
+
+
+
+
+**Diachronic changes in linguistic style**
+<img src="{{ '/images/papers/knesset_corpus/ttr-word-frequency-charts.png' | relative_url }}"
+     alt="TTR and word freq"
+     style="width: 60%; display: block; margin: 0 auto;">
+*Figure: Average TTR and word frequency in Knesset plenary and committee sessions.
+Statistically significant evidence (at p<0.001) for decreasing TTR was observed for
+both committee and plenary sessions, and for increasing word frequency in committee
+protocols. Expectedly, higher TTR and conversely, lower word frequency, were found
+for the (less formal) plenary sessions.*
+
+**Gender-based differences in verb voice**
+
+<img src="{{ '/images/papers/knesset_corpus/table4.png' | relative_url }}"
+     alt="voice differences"
+     style="width: 60%; display: block; margin: 0 auto;">
+*Table: Usage of verb voice by men and women*
+
 
