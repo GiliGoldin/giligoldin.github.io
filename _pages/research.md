@@ -25,7 +25,7 @@ Recent years have seen an increase in polarized discourse worldwide, on various 
 
 <img src="{{ '/images/papers/polarizaion/flow-color-3-encoder.png' | relative_url }}"
      alt="VAD prediction combined model flow"
-     style="width: 60%; display: block; margin: 0 auto;">
+     style="width: 65%; display: block; margin: 0 auto;">
 
 *Figure 1: The Encoder LLM receives a sentence as input and
 generates its sentence embedding. This embedding is then used as input for the regression
@@ -91,7 +91,7 @@ We present the Knesset Corpus, a corpus of Hebrew parliamentary proceedings cont
 **Diachronic changes in linguistic style**
 <img src="{{ '/images/papers/knesset_corpus/ttr-word-frequency-charts.png' | relative_url }}"
      alt="TTR and word freq"
-     style="width: 60%; display: block; margin: 0 auto;">
+     style="width: 80%; display: block; margin: 0 auto;">
 *Figure: Average TTR and word frequency in Knesset plenary and committee sessions.
 Statistically significant evidence (at p<0.001) for decreasing TTR was observed for
 both committee and plenary sessions, and for increasing word frequency in committee
