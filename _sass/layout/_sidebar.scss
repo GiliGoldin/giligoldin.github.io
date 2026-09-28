@@ -93,10 +93,11 @@
     height: auto;
   }
 
-  img {
+img {
   width: 175px;
-  height: 175px;
-  max-width: none;
+  max-width: 100%;
+  aspect-ratio: 1 / 1;
+  height: auto;
   box-sizing: border-box;
   object-fit: cover;
   object-position: center;
