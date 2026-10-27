@@ -6,13 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD candidate in Computer Science at the University of Haifa, currently in the final stages of my doctoral studies. My research is in natural language processing (NLP), computational linguistics, and artificial intelligence (AI), with a particular focus on multilingual and morphologically rich languages, and on data-driven, linguistically informed approaches.
+I hold a PhD in Computer Science from the University of Haifa (2026), specializing in natural language processing (NLP) and computational linguistics. I am currently a Sessional Lecturer at the University of Toronto, where I teach a seminar in Cognitive Science. My research combines computational methods with linguistically informed approaches to understanding language, with particular interests in multilingual and morphologically rich languages and the relationship between language and society.
 
+My doctoral research focused on the computational analysis of political discourse in Hebrew. I developed NLP models and annotated datasets to investigate affective polarization, factuality, stylistic variation, and gender differences in parliamentary speech. This work examines how linguistic choices reflect social and political phenomena, bridging computational modeling with questions from linguistics and the social sciences.
 
-My PhD research has focused on the computational analysis of political discourse in Hebrew. I develop NLP models and annotated datasets to study polarization, stylistic variation, gender differences, and the truthfulness and reliability of parliamentary speech. This work examines how linguistic choices encode social meaning in real-world political discourse, bridging computational modeling with insights from linguistics and social science.
-
-
-Building on this foundation, my current research interests focus on fairness, bias, and morality in large language models and AI systems. I am particularly interested in how linguistic structure interacts with model behavior, and how social and ethical biases emerge in model-generated language across languages.
+My broader research interests include the relationship between language, morality, and social values, as well as fairness and bias in large language models and AI systems. I am particularly interested in how linguistic structure and context shape meaning, how social and ethical biases are reflected in language technologies, and how computational methods can help investigate these phenomena across languages and cultures.
 
 
 ## Publications
